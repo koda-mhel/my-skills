@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter Constants Sorter"
+  short_description: "Sort Flutter constants and asset paths"
+  default_prompt: "Use $flutter-constants-sorter to sort the specified constants file alphabetically."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter ARB Sorter"
+  short_description: "Sort Flutter l10n ARB files"
+  default_prompt: "Use $flutter-arb-sorter to sort every .arb file in the l10n directory and validate Flutter localization."
