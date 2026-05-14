@@ -97,7 +97,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../bloc/bloc.dart';
 
 class <Pascal>Page extends StatelessWidget {
-  static const route = '/<snake_name>';
+  static const route = '/<kebab-case>';
 
   const <Pascal>Page({super.key});
 
@@ -124,7 +124,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../bloc/bloc.dart';
 
 class <Pascal>Page extends StatelessWidget {
-  static const route = '/<snake_name>';
+  static const route = '/<kebab-case>';
 
   const <Pascal>Page({super.key});
 
